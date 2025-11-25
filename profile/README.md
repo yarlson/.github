@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-If any of my tools save you time or spare you from yak-shaving, consider supporting the work behind them:  
-👉 **https://github.com/sponsors/yarlson**
+If any of my tools save you time or spare you from yak-shaving, consider supporting the work behind them:
+
+[**Sponsor the work**](https://github.com/sponsors/yarlson)
 
 It helps me keep building and maintaining things that (hopefully) make your setup suck less.
 
